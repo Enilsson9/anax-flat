@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2017 [Edward Nilsson](https://github.com/Enilsson9) (enilsson9@hotmail.com).
 
 * [License](license)
 * [Cookies](cookies)
