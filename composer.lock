@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "961ab03899a4abe7df69c89a83c262ff",
     "content-hash": "f6e86f0d67ec40429b3c857354b990e5",
     "packages": [
         {
@@ -52,7 +51,7 @@
             "keywords": [
                 "html"
             ],
-            "time": "2017-06-03 02:28:16"
+            "time": "2017-06-03T02:28:16+00:00"
         },
         {
             "name": "michelf/php-markdown",
@@ -103,7 +102,7 @@
             "keywords": [
                 "markdown"
             ],
-            "time": "2015-12-24 01:37:31"
+            "time": "2015-12-24T01:37:31+00:00"
         },
         {
             "name": "michelf/php-smartypants",
@@ -158,7 +157,7 @@
                 "typographer",
                 "typography"
             ],
-            "time": "2016-10-10 18:14:08"
+            "time": "2016-10-10T18:14:08+00:00"
         },
         {
             "name": "mos/anax",
@@ -212,7 +211,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2017-10-18 15:21:34"
+            "time": "2017-10-18T15:21:34+00:00"
         },
         {
             "name": "mos/anax-flat",
@@ -262,7 +261,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2017-10-30 14:45:20"
+            "time": "2017-10-30T14:45:20+00:00"
         },
         {
             "name": "mos/cimage",
@@ -311,7 +310,7 @@
                 "image",
                 "imageprocessing"
             ],
-            "time": "2015-12-07 15:02:17"
+            "time": "2015-12-07T15:02:17+00:00"
         },
         {
             "name": "mos/ctextfilter",
@@ -374,7 +373,7 @@
                 "markdown",
                 "shortcode"
             ],
-            "time": "2017-10-02 10:22:33"
+            "time": "2017-10-02T10:22:33+00:00"
         },
         {
             "name": "scrivo/highlight.php",
@@ -408,7 +407,7 @@
                 "highlight.php",
                 "syntax"
             ],
-            "time": "2016-01-01 14:08:00"
+            "time": "2016-01-01T14:08:00+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -463,7 +462,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-10-05 14:43:42"
+            "time": "2017-10-05T14:43:42+00:00"
         }
     ],
     "packages-dev": [],

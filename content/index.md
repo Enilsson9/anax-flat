@@ -13,7 +13,7 @@ views:
 ...
 Välkommen
 ===============================
-![Bild på mig](img/me-fb.jpg)
+<p><img class="smaller-img" src="img/me-fb.jpg" alt="me"></p>
 
 Hej,
 

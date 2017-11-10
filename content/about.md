@@ -9,6 +9,10 @@ The source for this website is available on GitHub in [canax/anax-flat](git@gith
 
 This site is produced by [Edward Nilsson](https://github.com/Enilsson9) (enilsson9@hotmail.com).
 
-[Check this repo on Github](https://github.com/Enilsson9/anax-flat)
+[Check repo on Github](https://github.com/Enilsson9/anax-flat)
+<i class="fa fa-github fa-5x" aria-hidden="true"></i>
+[Check theme on Github](https://github.com/Enilsson9/anax-flat-theme)
 
-![Bild på bth](img/bth.jpg)
+
+<p>Sponsored by: </p>
+<p><img width="200px" src="img/bth.jpg" alt="Bild på bth"></p>
