@@ -43,6 +43,17 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography of this website")
             ],
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis of websites")
+            ],
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme of this website")
+            ],
+
         ],
     ],
 
@@ -84,11 +95,20 @@ return [
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid of this website")
             ],
-
             "typography" => [
                 "text"  => t("Typo"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography of this website")
+            ],
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis of websites")
+            ],
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme of this website")
             ],
         ],
     ],
