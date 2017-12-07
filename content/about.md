@@ -15,4 +15,4 @@ This site is produced by [Edward Nilsson](https://github.com/Enilsson9) (enilsso
 
 
 <p>Sponsored by: </p>
-<p><img width="200px" src="img/bth.jpg" alt="Bild på bth"></p>
+[FIGURE src="image/bth.jpg?w=200" caption=""]

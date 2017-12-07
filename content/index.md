@@ -13,8 +13,7 @@ views:
 ...
 Välkommen
 ===============================
-<p><img class="smaller-img" src="img/me-fb.jpg" alt="me"></p>
-
+[FIGURE src="image/me-fb.jpg?w=400" caption="" class="right w50"]
 Hej,
 
 Mitt namn är Edward Nilsson och är 20 år. Född och uppvuxen i Guatemala City, Guatemala.
