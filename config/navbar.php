@@ -53,7 +53,6 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme of this website")
             ],
-<<<<<<< HEAD
             "images" => [
                 "text"  => t("Images"),
                 "url"   => $this->di->get("url")->create("images"),
@@ -64,9 +63,6 @@ return [
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Blog of this website")
             ],
-=======
-
->>>>>>> cd220741a40db73ac03d0aa92d037449f2a806b1
         ],
     ],
 
@@ -123,7 +119,6 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme of this website")
             ],
-<<<<<<< HEAD
             "images" => [
                 "text"  => t("Images"),
                 "url"   => $this->di->get("url")->create("images"),
@@ -134,8 +129,6 @@ return [
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Blog of this website")
             ],
-=======
->>>>>>> cd220741a40db73ac03d0aa92d037449f2a806b1
         ],
     ],
 
