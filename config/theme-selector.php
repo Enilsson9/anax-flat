@@ -61,10 +61,33 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "background" => [
+            "title"      => "A theme where the background and opacity stand out",
+            "class"      => "background",
+            "stylesheets" => ["css/background.min.css"]
         ],
+        "texture" => [
+            "title"      => "A theme where texture and borders stand out",
+            "class"      => "texture",
+            "stylesheets" => ["css/texture.min.css"]
+        ],
+        "gradients" => [
+            "title"      => "A theme where gradients and pictures stand out",
+            "class"      => "gradients",
+            "stylesheets" => ["css/gradients.min.css"]
+        ],
+        "separator3" => "------------------------------------------------",
+
+        "unity" => [
+            "title"      => "A theme where all elements are in agreement",
+            "class"      => "unity",
+            "stylesheets" => ["css/unity.min.css"]
+        ],
+        "movement" => [
+            "title"      => "A theme where colors change",
+            "class"      => "movement",
+            "stylesheets" => ["css/movement.min.css"]
+        ],
+
     ]
 ];

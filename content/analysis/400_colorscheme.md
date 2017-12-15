@@ -39,7 +39,6 @@ Verktyg: Eyedropper (firefox) och WhatFont
     <table style="border-spacing: 4px; border-collapse: separate">
         <tr>
         <td style="height: 30px; width: 5%; background-color: #33FF00">
-        Accentfärg
         <td style="height: 30px; width: 5%; background-color: #339900">
         <td style="height: 30px; width: 5%; background-color: #DFE2E3">
         <td style="height: 30px; width: 5%; background-color: #C5CCCD">
